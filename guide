@@ -1,0 +1,23 @@
+====== Welcome to Heap Adventure: Battle of Power! ======
+
+Choose an action:
+1. Recruit a new Adventurer from the Guild (Insert)
+2. Send the strongest Adventurer to battle (Remove)
+3. View your current party
+4. Recruit random Adventurers and organize them (Heapify)
+5. Exit Game
+Enter your choice: 4
+
+Random Adventurers have been recruited from the Guild and organized into your party!
+Your current party (Max Heap): [ 98 56 78 45 23 ]
+
+Choose an action:
+1. Recruit a new Adventurer from the Guild (Insert)
+2. Send the strongest Adventurer to battle (Remove)
+3. View your current party
+4. Recruit random Adventurers and organize them (Heapify)
+5. Exit Game
+Enter your choice: 2
+
+Adventurer with Power Level 98 has gone to battle and left your party.
+Your current party (Max Heap): [ 78 56 23 45 ]
