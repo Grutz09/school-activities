@@ -1,0 +1,40 @@
+Description of Each Functionality in the Game
+The program provides a menu with different options that the user can select. Based on the selected choice, the following functionalities occur:
+
+Case 1: Binary Tree
+
+When the user selects this option, the program initializes a Binary Tree.
+The program prompts the user to input the number of nodes and their values.
+After creating the tree, the user can choose among the following traversals:
+Pre-order Traversal: Displays the nodes in root → left → right order.
+In-order Traversal: Displays the nodes in left → root → right order.
+Post-order Traversal: Displays the nodes in left → right → root order.
+The traversal result is printed to the screen.
+
+Case 2: Binary Search Tree (BST)
+
+The user is allowed to build a Binary Search Tree by inserting values.
+After constructing the tree, the following operations can be performed:
+Insert: Add a new value to the tree. The program ensures the BST structure is maintained.
+Delete: Remove a value from the tree. If the value doesn’t exist, a message is displayed.
+Search: Look for a value in the tree and display whether it exists.
+Traverse: View the tree in pre-order, in-order, or post-order formats.
+
+Case 3: Max-Heap
+
+This option initializes a Max-Heap.
+The user can:
+Insert: Add a new value. The heap adjusts itself so that the parent nodes remain greater than the children.
+Delete Root: Removes the maximum value (root) from the heap and rebalances it.
+The final heap is displayed after each operation.
+
+Case 4: Min-Heap
+This option initializes a Min-Heap.
+The user can:
+Insert: Add a new value. The heap adjusts itself to ensure the smallest value is at the root.
+Delete Root: Removes the smallest value (root) from the heap and rebalances it.
+The updated heap is displayed after each operation.
+
+Case 5: Exit
+When the user selects this option, the program terminates.
+A goodbye message is displayed to indicate the program's end.
