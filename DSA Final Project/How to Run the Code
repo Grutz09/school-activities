@@ -1,0 +1,9 @@
+How to Run the Code
+Prerequisites:
+
+A C++ compiler such as GCC, Clang, or Visual Studio.
+A text editor or an integrated development environment (IDE) like Visual Studio Code, CLion, or Code::Blocks.
+Steps to Execute:
+
+Save the code in a .cpp file, e.g., data_structures.cpp.
+Open a terminal, navigate to the directory containing the file, and compile the code
