@@ -1,0 +1,16 @@
+Project Overview
+This project implements fundamental data structures—Binary Tree, Binary Search Tree (BST), and Heap (Max-Heap and Min-Heap)—and provides an interactive way to explore their functionalities. 
+These data structures are essential, commonly used for efficient data storage, retrieval, and manipulation. 
+The project includes a menu-based interface for users to perform operations on these structures, making it a practical learning tool.
+
+Key Features:
+Binary Tree Operations:
+Traverse a binary tree using pre-order, in-order, and post-order methods.
+
+Binary Search Tree (BST) Operations:
+Insert, delete, and search for nodes.
+Traverse the BST.
+
+Heap Operations:
+Implement max-heap and min-heap structures.
+Insert elements and remove the root element.
